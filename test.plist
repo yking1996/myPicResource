@@ -13,7 +13,7 @@
                         <string>software-package</string>
                         <key>url</key>
                         <!-- 需要安装的ipa包在服务器的路径 -->
-                        <string>https://github.com/yking1996/testDistribute/blob/main/xyj.ipa</string>
+                        <string>https://yking1996.github.io/testDistribute/download/xyj.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -23,7 +23,7 @@
                         <key>url</key>
                         <!-- 安装时需要显示的大图标（1024*1024）在服务器的路径 -->
                         <string>
-                            https://github.com/yking1996/testDistribute/blob/main/icon/1024.jpg
+                            https://yking1996.github.io/testDistribute/icon/1024.jpg
                         </string>
                     </dict>
                     <dict>
@@ -33,7 +33,7 @@
                         <true />
                         <key>url</key>
                         <!-- 安装时需要显示的小图标（180*180）在服务器的路径 -->
-                        <string>https://github.com/yking1996/testDistribute/blob/main/icon/180.jpg</string>
+                        <string>https://yking1996.github.io/testDistribute/icon/180.jpg</string>
                     </dict>
                 </array>
                 <key>metadata</key>
